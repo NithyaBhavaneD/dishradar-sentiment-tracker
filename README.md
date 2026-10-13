@@ -68,9 +68,9 @@ The analysis also highlighted service speed as a persistent issue, demonstrating
 
 ## Project Resources
 
-- **Dashboard:** [Add your deployed dashboard URL]
-- **Google Colab Notebook:** [Open the analysis notebook](https://colab.research.google.com/drive/1DeLKP3R00l8rX3qVphnVDvEiUUR3Adm4)
-- **Project Report:** See `report.pdf` in this repository.
+- **Dashboard:** https://f0d3ef8b1f82eea46e.gradio.live
+- **Google Colab Notebook** https://colab.research.google.com/drive/1M8-dOOLJihp7odx_SUOEGez6rDR7l0Xm
+- **Project Report:** See `DishRadar Capstone Project Report - Nithya, Anisha, Rakshitha (2).pdf` in this repository.
 
 ## Academic Context
 
